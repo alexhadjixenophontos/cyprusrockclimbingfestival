@@ -1,0 +1,26 @@
+{
+  "name": "cyprus-rock-climbing-festival",
+  "version": "1.0.0",
+  "description": "Official website for the Cyprus Rock Climbing Festival (CRCF)",
+  "main": "index.html",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "format:html": "prettier --write *.html",
+    "format:css": "prettier --write *.css",
+    "format:js": "prettier --write *.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "keywords": [
+    "climbing",
+    "festival",
+    "cyprus",
+    "rock-climbing",
+    "outdoor",
+    "adventure"
+  ],
+  "author": "CRCF Team",
+  "license": "MIT"
+}
