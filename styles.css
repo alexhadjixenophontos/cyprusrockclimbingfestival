@@ -142,7 +142,7 @@ body {
 
 /* Landing Section */
 .landing-section {
-  height: 100vh;
+  height: 60vh;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   display: flex;
   align-items: center;
@@ -1154,6 +1154,10 @@ section h4 {
 
   .hamburger.active .bar:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .landing-section {
+    height: 50vh;
   }
 
   .landing-title {
